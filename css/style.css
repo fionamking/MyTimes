@@ -131,6 +131,12 @@ padding-left: 30px;
 
 }
 
+/*Tring to move center-column NOT WORKING*/
+.mini-column {
+  display: flex;
+  flex-direction: column;
+}
+
 .burger-heading {
 
   font-family: Georgia;
